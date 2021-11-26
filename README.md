@@ -1,2 +1,2 @@
-# mboke.github.io
+# mushroomaner.github.io
 a hexo temp blog
